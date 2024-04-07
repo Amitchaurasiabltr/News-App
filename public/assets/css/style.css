@@ -1,0 +1,17 @@
+.background{
+    background-color: blueviolet;
+}
+.btn:hover{
+    background-color: rgb(113, 22, 197);
+}
+.card-title{
+    height: 100px;
+}
+.card-text{
+    height: 100px;
+}
+.card-source{
+    padding: 5px;
+    background-color: bisque;
+    font-size: 12px;
+}
